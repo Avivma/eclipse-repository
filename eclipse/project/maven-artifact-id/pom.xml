@@ -23,6 +23,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>ROOT</finalName>
+		<finalName>ROOT.war</finalName>
 	</build>
 </project>
